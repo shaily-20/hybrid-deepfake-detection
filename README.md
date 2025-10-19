@@ -9,17 +9,9 @@ This project presents a **hybrid deepfake detection framework** that leverages C
 - **Hybrid Model Architecture:** Integrates ResNet50 and MesoNet4 for high-level spatial and low-resolution feature detection.  
 - **Physiological Cue Analysis:** Uses blink rate and gaze shift inconsistencies to improve model performance.  
 - **High Accuracy:** Achieves **97.61% accuracy** on multiple datasets including Deepfake-and-Real Images, UADFV, and FaceForensics++.  
-- **Explainable AI:** Grad-CAM visualization improves model interpretability and transparency.  
+
 
 ## Architecture
 
 - **ResNet50:** Extracts high-level spatial features.  
 - **MesoNet4:** Optimized for detecting low-resolution manipulations.  
-- **Eye Movement Analysis Module:** Detects physiological inconsistencies in facial behavior.  
-
-
-
-
-## Download Project
-
-[📂 Download the Deepfake Detection Project](https://drive.google.com/drive/folders/18KO7cQpzoEToGY2YhK7x5dsDMszrS69V?usp=drive_link)
