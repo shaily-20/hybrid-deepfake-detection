@@ -18,4 +18,4 @@ This project presents a **hybrid deepfake detection framework** that leverages C
 
 ## Research Paper & Demo Video Link
 - **Research Paper:** https://harbinengineeringjournal.com/index.php/journal/article/view/4399
-- **Demo Video:** https://drive.google.com/file/d/1_r0w_7IkL97BdblWq7azOhn-JnKpkeft/view?usp=drivesdk
+- **Demo Video:** [https://drive.google.com/file/d/1_r0w_7IkL97BdblWq7azOhn-JnKpkeft/view?usp=drivesdk](https://drive.google.com/file/d/1nP1BMSvyGhilG5kxE_4TOPLD9-CqZcAm/view)
