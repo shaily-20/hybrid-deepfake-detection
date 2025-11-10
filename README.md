@@ -15,3 +15,7 @@ This project presents a **hybrid deepfake detection framework** that leverages C
 
 - **ResNet50:** Extracts high-level spatial features.  
 - **MesoNet4:** Optimized for detecting low-resolution manipulations.  
+
+## Research Paper & Demo Video Link
+- **Research Paper:** https://harbinengineeringjournal.com/index.php/journal/article/view/4399
+- **Demo Video:** 
